@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import React, { useEffect } from 'react';
 import { Text, View } from 'react-native';
 import {requestUserPermission,NotificationListener} from "./src/utils/pushnotification_helper"

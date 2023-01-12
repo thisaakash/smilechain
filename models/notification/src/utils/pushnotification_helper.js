@@ -1,7 +1,6 @@
 import messaging from '@react-native-firebase/messaging';
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import firebase from '@react-native-firebase/app';
-
+import PushNotification from 'react-native-push-notification';
 
 export async function requestUserPermission() {
   const authStatus = await messaging().requestPermission();
@@ -50,19 +49,18 @@ export const NotificationListener = () => {
       }
     });
 
+    PushNotification.configure({
+        onNotification: function(notification) {
+          console.log('Notification:', notification);
+        },
+      });
+
   messaging().onMessage(async remoteMessage => {
     console.log(remoteMessage, 'log here');
-//     const notification = new firebase.notifications.Notification()
-//     .setNotificationId(remoteMessage.messageId)
-//     .setTitle(remoteMessage.data.title)
-//     .setBody(remoteMessage.data.body)
-//     .setData(remoteMessage.data);
-
-//   // Display the notification
-//   notification.android.setChannelId('channelId')
-//   notification.android.setSmallIcon('ic_notification')
-//   notification.android.setAutoCancel(true);
-  
-//   firebase.notifications().displayNotification(notification);
+    PushNotification.localNotification({
+        title: remoteMessage.data.title,
+        message: remoteMessage.data.body,
+        channelId:"channelId",
+      });
   });
 };
