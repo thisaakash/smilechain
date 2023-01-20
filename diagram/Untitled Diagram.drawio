@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T05:48:37.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RosJyaUvPaWGMpAmMRTk" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T05:53:02.135Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="r4de2xgL1ZM-QeMQH6NU" version="20.8.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="2232" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7fvaYo8_wZqHOtpPi-BS-1" value="" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SMILECHAIN&amp;nbsp;&lt;br&gt;CORE&lt;br&gt;&lt;/font&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="440" y="315" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
