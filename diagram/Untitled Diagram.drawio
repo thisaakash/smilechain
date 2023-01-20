@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T06:04:31.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DIJ1DIYq6IlrGjL1oy7b" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T06:04:48.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wK2eipZLQ3-LUlpgC_FQ" version="20.8.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="744" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1046" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,11 +49,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fvaYo8_wZqHOtpPi-BS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.012;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.012;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="440" y="450" as="targetPoint" />
+            <mxPoint x="240" y="436" as="sourcePoint" />
+            <mxPoint x="442.64" y="440.86" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="450" />
+              <mxPoint x="240" y="441" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -62,24 +63,28 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fvaYo8_wZqHOtpPi-BS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="418.5" as="sourcePoint" />
+            <mxPoint x="440.22" y="415.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="340" y="422" />
-              <mxPoint x="340" y="420" />
+              <mxPoint x="340" y="418" />
+              <mxPoint x="340" y="416" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-16" value="Unfollow Friends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-14">
           <mxGeometry x="-0.2236" relative="1" as="geometry">
-            <mxPoint x="2" as="offset" />
+            <mxPoint x="2" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7fvaYo8_wZqHOtpPi-BS-17" value="Share NFT to friends" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.051;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-17" value="Share NFT to friends" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.051;entryY=0.72;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry x="-0.111" y="3" relative="1" as="geometry">
+            <mxPoint x="240" y="486" as="sourcePoint" />
+            <mxPoint x="451.22" y="469.4" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="240" y="473" />
-              <mxPoint x="340" y="473" />
+              <mxPoint x="240" y="469" />
+              <mxPoint x="340" y="469" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
