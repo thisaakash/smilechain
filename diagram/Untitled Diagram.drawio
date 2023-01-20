@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T12:22:09.105Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Hs8Gl0PPuiAx07WrS4vX" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T12:22:41.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DhS79mC2gIopXDQIZmi_" version="20.8.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -108,6 +108,14 @@
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-21" value="Signup for newsletter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="7fvaYo8_wZqHOtpPi-BS-20" vertex="1" connectable="0">
           <mxGeometry x="0.014" y="2" relative="1" as="geometry">
             <mxPoint x="7" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NIe49fQJqidkVbKNJP8i-1" value="Contact Admin" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="570" />
+              <mxPoint x="550" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;" parent="1" vertex="1">
