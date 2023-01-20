@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T06:01:45.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="O6RL9XPLw-UrvLFbc4pC" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T06:02:30.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kFuEL-dbEu1Jw4r_uBkj" version="20.8.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="310" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1080" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,19 @@
           <mxGeometry x="440" y="315" width="220" height="220" as="geometry" />
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create Web3 Wallet&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1933" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="90" y="400" />
               <mxPoint x="90" y="295" />
               <mxPoint x="550" y="295" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-6" value="Create Username &amp;amp; bio" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.272;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="0.2967" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=14;entryX=0.095;entryY=0.206;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
           <mxGeometry relative="1" as="geometry">
@@ -30,7 +33,7 @@
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-8" value="Enable 2FA" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-7">
           <mxGeometry x="0.0733" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=14;entryX=0.022;entryY=0.341;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
@@ -65,7 +68,7 @@
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-16" value="Unfollow Friends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-14">
           <mxGeometry x="-0.2236" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;User&lt;/font&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
