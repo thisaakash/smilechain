@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T06:00:11.533Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BDieS-rO6TJ9MtVYs_bg" version="20.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T06:01:45.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="O6RL9XPLw-UrvLFbc4pC" version="20.8.8" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1339" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="310" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,6 +43,28 @@
         </mxCell>
         <mxCell id="7fvaYo8_wZqHOtpPi-BS-10" value="Follow Friends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-9">
           <mxGeometry x="-0.0007" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;entryX=0.012;entryY=0.613;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="450" />
+              <mxPoint x="440" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-13" value="Mint NFT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-12">
+          <mxGeometry x="-0.1413" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="7fvaYo8_wZqHOtpPi-BS-2" target="7fvaYo8_wZqHOtpPi-BS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7fvaYo8_wZqHOtpPi-BS-16" value="Unfollow Friends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="7fvaYo8_wZqHOtpPi-BS-14">
+          <mxGeometry x="-0.2236" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
