@@ -10,7 +10,6 @@ const App = () => {
   const [data, setData] = useState([]);
 
   useEffect(()=>{
-
     fetch('https://theaakashprojects.cf/welcome')
       .then(response => response.json())
       .then(data => 
@@ -21,13 +20,26 @@ const App = () => {
     NotificationListener();
   },[])
 
+  const GetData = () => {
+    fetch('https://theaakashprojects.cf/welcome')
+      .then(response => response.json())
+      .then(data => 
+        setData(data.data))
+      .catch(error => console.log(error));
+
+    requestUserPermission();
+    NotificationListener();
+  }
+  }
+
   return (
 
     <View style={{width}}>
-         <StatusBar hidden />
+      <StatusBar hidden />
       <Animated.FlatList
       data={data}
       horizontal
+      onRefresh={() => GetData}
       scrollEventThrottle={32}
       pagingEnabled
       showsHorizontalScrollIndicator={false}
