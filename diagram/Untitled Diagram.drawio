@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T10:52:11.128Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="zbR9MoVeA9UwbD4Lq2Fv" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T10:53:05.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Ksf76gCpvavAzqHNv-lX" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="315" dy="134" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -806,7 +806,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-417" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-335" target="1QMK_9NGRWRiEumfAoep-415">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-417" value="Enter credential" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-335" target="1QMK_9NGRWRiEumfAoep-415">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2535" y="190" />
@@ -851,6 +851,19 @@
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-414" value="Match Meta With&lt;br&gt;Existing User" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-413">
           <mxGeometry x="0.233" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-418" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-415" target="1QMK_9NGRWRiEumfAoep-335">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2680" y="288" />
+              <mxPoint x="2680" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-419" value="Welcome&lt;br&gt;Email" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-418">
+          <mxGeometry x="0.3188" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
