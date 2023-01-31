@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:24:48.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="9EhNfkBGv_bk6ZTFYdKv" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:25:20.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NGL4HJ-S8lguVNSWC0Ro" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="248" dy="106" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="239" dy="102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,6 +326,20 @@
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-52" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Admin&lt;/span&gt;" style="html=1;dashed=0;whitespace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1990" y="410" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.038;exitY=0.69;exitDx=0;exitDy=0;entryX=0.273;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitPerimeter=0;" edge="1" parent="1" target="1QMK_9NGRWRiEumfAoep-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1587.36" y="494.80000000000007" as="sourcePoint" />
+            <mxPoint x="1178.61" y="169.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1150" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-61" value="Redirecting To Rating Page" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-60">
+          <mxGeometry x="-0.4494" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
