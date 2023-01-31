@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:38:50.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CDZc-af-Dl4VZMkCbQZk" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:39:08.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="_pg6spZdHYPlF2vfhSMz" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="759" dy="323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="253" dy="108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -437,7 +437,7 @@
           <mxGeometry x="1580" y="520" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-166" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;2. Post NFT&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="370" width="190" height="110" as="geometry" />
+          <mxGeometry x="1555" y="370" width="190" height="110" as="geometry" />
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-167" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;4. Mint File&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1580" y="647" width="190" height="110" as="geometry" />
@@ -448,7 +448,7 @@
         <mxCell id="1QMK_9NGRWRiEumfAoep-169" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;6. Reviews &amp;amp; Report&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1580" y="907" width="190" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.357;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-171" target="1QMK_9NGRWRiEumfAoep-166">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.438;entryY=-0.01;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-171" target="1QMK_9NGRWRiEumfAoep-166">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1215" y="350" />
