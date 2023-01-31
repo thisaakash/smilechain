@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:52:33.109Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="R3zBWfTYFWtSb_cwER89" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:53:17.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UF-jR4bEB7fbH8Bv961q" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1075" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="737" dy="314" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -458,11 +458,12 @@
             <mxPoint x="10" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-182" value="NFT Analytics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-166" target="1QMK_9NGRWRiEumfAoep-181">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-182" value="NFT Analytics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.395;entryY=-0.019;entryDx=0;entryDy=0;fontSize=14;entryPerimeter=0;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-166" target="1QMK_9NGRWRiEumfAoep-181">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1718" y="354" />
-              <mxPoint x="1910" y="354" />
+              <mxPoint x="1920" y="354" />
+              <mxPoint x="1920" y="403" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -516,8 +517,16 @@
             <mxPoint x="-38" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-181" target="1QMK_9NGRWRiEumfAoep-166">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-184" value="Manage&lt;br&gt;Content" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-183">
+          <mxGeometry x="0.294" y="1" relative="1" as="geometry">
+            <mxPoint x="27" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-181" value="Admin" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="394" width="100" height="50" as="geometry" />
+          <mxGeometry x="1880" y="404" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
