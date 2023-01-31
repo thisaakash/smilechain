@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:25:47.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="YglYd7x1-DkJdL7W7DPX" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:26:55.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bGqgbV8yQkGnJLd4jtiv" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="1720" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -343,6 +343,15 @@
         <mxCell id="1QMK_9NGRWRiEumfAoep-146" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Email id and Password&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-145">
           <mxGeometry x="0.1608" y="1" relative="1" as="geometry">
             <mxPoint x="6" y="-4" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-162" value="Request For Update Password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-144" target="1QMK_9NGRWRiEumfAoep-143">
+          <mxGeometry x="0.2605" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1275" y="310" />
+              <mxPoint x="1583" y="310" />
+            </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-144" value="User" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
