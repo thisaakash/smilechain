@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T10:59:25.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="01eD4PiLJJYP1J9qOXjt" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T11:00:35.750Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vn8sbRkSr0UrmkacWcXE" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="921" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -817,9 +817,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-428" value="Request For &lt;br&gt;New Password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-335" target="1QMK_9NGRWRiEumfAoep-426">
-          <mxGeometry x="0.5138" y="-1" relative="1" as="geometry">
+          <mxGeometry x="0.399" y="-1" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2535" y="419" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-430" value="New Password" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.059;entryY=0.769;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-335" target="1QMK_9NGRWRiEumfAoep-426">
+          <mxGeometry x="0.5271" y="-1" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2485" y="480" />
+              <mxPoint x="2706" y="480" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -901,7 +910,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-429" value="Sending Link" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-426" target="1QMK_9NGRWRiEumfAoep-335">
-          <mxGeometry x="-0.2893" relative="1" as="geometry">
+          <mxGeometry x="-0.4924" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-431" value="Success Response" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.11;entryY=0.989;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-426" target="1QMK_9NGRWRiEumfAoep-335">
+          <mxGeometry x="-0.4642" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2715" y="500" />
+              <mxPoint x="2471" y="500" />
+            </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
