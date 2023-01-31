@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:23:39.133Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3HOMD9LKyxQdEk9eDDsM" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:23:50.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BXWsnRN0oUYp1rcl3ZIg" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="487" dy="207" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -400,7 +400,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-161" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Store Registration Info&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=0.733;exitY=0.057;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-143">
-          <mxGeometry x="-0.1623" relative="1" as="geometry">
+          <mxGeometry x="-0.0798" relative="1" as="geometry">
             <mxPoint x="1694.65" y="201.96000000000004" as="sourcePoint" />
             <mxPoint x="1850" y="260" as="targetPoint" />
             <Array as="points">
