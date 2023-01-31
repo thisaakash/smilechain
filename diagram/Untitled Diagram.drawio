@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:27:46.788Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="O-RLFPMGkCDkcyVsF_lT" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:28:45.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cJKzC8xa7p8q6OeT6Scb" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="890" dy="379" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="430" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,6 +339,17 @@
         <mxCell id="1QMK_9NGRWRiEumfAoep-61" value="Like Notification" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-60">
           <mxGeometry x="-0.4494" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-88" value="View FAQ&#39;s" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.961;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" target="1QMK_9NGRWRiEumfAoep-45">
+          <mxGeometry x="-0.4072" relative="1" as="geometry">
+            <mxPoint x="1620.9999999999977" y="422" as="sourcePoint" />
+            <mxPoint x="1260.7600000000002" y="132.54999999999995" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="1276" y="422" />
+              <mxPoint x="1276" y="160" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
