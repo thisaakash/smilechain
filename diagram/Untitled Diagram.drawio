@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T08:18:50.550Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZHceMyRPwJuKIsPdTFCn" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T08:19:30.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="P3qhRdE9aeX4IcUEbZoR" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="516" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -170,14 +170,14 @@
         <mxCell id="1QMK_9NGRWRiEumfAoep-27" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;SMILECHAIN&amp;nbsp;&lt;br&gt;CORE&lt;br&gt;&lt;/font&gt;" style="shape=ellipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
           <mxGeometry x="1570" y="325" width="220" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create Web3 Wallet&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-45" target="1QMK_9NGRWRiEumfAoep-27">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Create Web3 Wallet&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.05;entryY=0.285;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry x="-0.4134" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1581" y="125" />
+              <mxPoint x="1581" y="124" />
             </Array>
             <mxPoint as="offset" />
-            <mxPoint x="1219.94" y="150.35000000000002" as="sourcePoint" />
-            <mxPoint x="1520" y="320" as="targetPoint" />
+            <mxPoint x="1230" y="124" as="sourcePoint" />
+            <mxPoint x="1581" y="386.70000000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-29" value="Login" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;fontSize=14;entryX=0.318;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-45" target="1QMK_9NGRWRiEumfAoep-27">
@@ -233,13 +233,15 @@
             <mxPoint x="1594" y="362.6872968898143" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-44" value="Share Profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.679;exitY=0.986;exitDx=0;exitDy=0;entryX=0.027;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;exitPerimeter=0;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-45" target="1QMK_9NGRWRiEumfAoep-27">
-          <mxGeometry x="-0.2203" relative="1" as="geometry">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-44" value="Share Profile" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.027;entryY=0.337;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry x="-0.4651" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1195" y="190" />
-              <mxPoint x="1550" y="190" />
-              <mxPoint x="1550" y="399" />
+              <mxPoint x="1230" y="144" />
+              <mxPoint x="1550" y="144" />
+              <mxPoint x="1550" y="403" />
             </Array>
+            <mxPoint x="1230" y="141.5" as="sourcePoint" />
+            <mxPoint x="1575.94" y="403.14" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
