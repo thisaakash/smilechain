@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:56:07.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Bd2Qui_ChVIQZukZilhR" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:57:22.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="sy_NtOh6gSZ3h0hNHwLW" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="860" dy="366" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -446,6 +446,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-190" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.066;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-165" target="1QMK_9NGRWRiEumfAoep-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-165" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;3. Follow &amp;amp; Like&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1555" y="533" width="190" height="110" as="geometry" />
         </mxCell>
@@ -515,6 +518,11 @@
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-186" value="Request To Follow Friend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-185">
           <mxGeometry x="0.0461" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-189" value="Like Friend NFT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-171" target="1QMK_9NGRWRiEumfAoep-165">
+          <mxGeometry x="0.3168" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
