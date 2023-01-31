@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T09:37:26.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QAMcGML6atv1t7BL8NKL" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T09:38:16.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6l1Cyj7PpoJRNvvUuw9v" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="921" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="307" dy="131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -447,6 +447,19 @@
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-169" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;6. Reviews &amp;amp; Report&amp;nbsp;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1580" y="907" width="190" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.357;entryY=0.003;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-171" target="1QMK_9NGRWRiEumfAoep-166">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1215" y="350" />
+              <mxPoint x="1638" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-173" value="Post NFT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="1QMK_9NGRWRiEumfAoep-172">
+          <mxGeometry x="0.1287" y="-3" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-171" value="User" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1190" y="390" width="100" height="50" as="geometry" />
