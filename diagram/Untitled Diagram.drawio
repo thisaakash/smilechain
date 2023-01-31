@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-31T11:33:28.405Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="QOUiu8kH_s0y0j1oMs4f" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-31T11:37:28.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="fzbZrGVcY2hqPhFbU8u_" version="20.8.10" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
-    <mxGraphModel dx="2580" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="921" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1058,62 +1058,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-492" value="Upload File" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-494" target="1QMK_9NGRWRiEumfAoep-498">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-493" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Request List&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-494" target="1QMK_9NGRWRiEumfAoep-500">
-          <mxGeometry x="0.2658" relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="5852" y="379.33000000000004" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1QMK_9NGRWRiEumfAoep-494" value="User" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="5802" y="221.32999999999998" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-495" value="Response" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-498" target="1QMK_9NGRWRiEumfAoep-494">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-496" value="Mint&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-498">
-          <mxGeometry x="-0.4012" y="1" relative="1" as="geometry">
-            <mxPoint x="6247" y="230" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-497" value="Record User&amp;nbsp;&lt;br&gt;File SHA&amp;nbsp;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=14;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-498">
-          <mxGeometry x="-0.4239" relative="1" as="geometry">
-            <mxPoint x="6197" y="300" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="6092" y="300" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-498" value="4.1&lt;br&gt;Mint File" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="1QMK_9NGRWRiEumfAoep-498" value="5.1&amp;nbsp;&lt;br&gt;Add&lt;br&gt;FAQs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="6042" y="101.33" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-499" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Success Response&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="1QMK_9NGRWRiEumfAoep-500" target="1QMK_9NGRWRiEumfAoep-494">
-          <mxGeometry x="-0.3855" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-500" value="4.2&amp;nbsp;&lt;br&gt;View Files" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="6042" y="364.33000000000004" width="100" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-501" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;IPFS&lt;/font&gt;" style="shape=link;html=1;rounded=0;fontSize=14;width=30;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="6197" y="245.62000000000012" as="sourcePoint" />
-            <mxPoint x="6297" y="245.62000000000012" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1QMK_9NGRWRiEumfAoep-502" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;User Pvt&lt;/font&gt;" style="shape=link;html=1;rounded=0;fontSize=14;width=30;" edge="1" parent="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="6199" y="301.6199999999999" as="sourcePoint" />
-            <mxPoint x="6299" y="301.6199999999999" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="1QMK_9NGRWRiEumfAoep-503" value="5.2&amp;nbsp;&lt;br&gt;Update&lt;br&gt;FAQs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="6042" y="220" width="100" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
