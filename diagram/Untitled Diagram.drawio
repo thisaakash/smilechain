@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-07T11:55:21.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gfuDsNAvz-NUJg6-iuqh" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-07T11:55:30.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="1MmbKbybv3nyUu-hpgmv" version="20.8.16" type="github">
   <diagram name="Page-1" id="5d7acffa-a066-3a61-03fe-96351882024d">
     <mxGraphModel dx="1116" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1173,14 +1173,6 @@
         </mxCell>
         <mxCell id="zU1GkxqpTQePuPwBEOr7-7" value="User" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1200" y="1330" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="zU1GkxqpTQePuPwBEOr7-8" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Manage Content&lt;/span&gt;&#xa;&#xa;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="zU1GkxqpTQePuPwBEOr7-9" target="zU1GkxqpTQePuPwBEOr7-4">
-          <mxGeometry x="-0.0207" y="6" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zU1GkxqpTQePuPwBEOr7-9" value="Admin" style="html=1;dashed=0;whitespace=wrap;fontSize=24;" vertex="1" parent="1">
-          <mxGeometry x="1880" y="1295.49" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
